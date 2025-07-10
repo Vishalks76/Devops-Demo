@@ -2,3 +2,7 @@
 #Lets try and learn
 Start learning
 a=10
+b=120
+c=a+b
+Learning git
+
